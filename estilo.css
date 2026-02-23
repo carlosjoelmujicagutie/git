@@ -4,4 +4,5 @@ p {
   border: 1px solid black;
   border-color: 1 px;
   border-bottom: 2 px;
+  padding: auto;
 }
