@@ -5,4 +5,5 @@ p {
   border-color: 1 px;
   border-bottom: 2 px;
   padding: auto;
+  border-radius: 3 px;
 }
